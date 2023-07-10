@@ -1,0 +1,8 @@
+---
+title: "notes and tips for final project"
+format: html
+editor: visual
+---
+
+## Create your proect summary:
+

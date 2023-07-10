@@ -9,6 +9,8 @@ ipak <- function(pkg){
 ipak("all.primer.tutorials")
 
 # Tutorial Packages
-library(r4ds.tutorials)
-library(all.primer.tutorials) 
-library(tidycensus.tutorials)
+# library(r4ds.tutorials)
+library(all.primer.tutorials)
+# library(tidycensus.tutorials)
+
+# remotes::install_github("PPBDS/all.primer.tutorials")
