@@ -10,6 +10,20 @@ editor: visual
   - I estimated a Bayesian linear model with degree of endangerment as the dependent variable and literacy, infant mortality, agriculture, and net migration as an independent variable
   - lastly, 40% of the world's languages are in danger of disappearing completely.
   
-
 # Combined senteces
 Reported by the World Economic Forum there are approximately 7,000 recognized languages worldwide, African languages make up one-third of the total, while the majority of people globally communicate in only 20 languages. The following data was pulled from data sets from mrbalikci github endangered-languages. Mapping data was then used to visualize most countries scale on which level of endangered language their in as well as the classification of endangerment of languages in each country that are know of so far. I then estimated a Bayesian linear model with degree of endangerment as the dependent variable and literacy, infant mortality, agriculture, and net migration as an independent variable. The analysis found that 40% of the world's languages are in danger of disappearing completely. 
+
+
+## Meet final project requirements
+Exercise 3:
+  -The home page should only include one key plot which draws the attention of the viewer.
+
+## FInal Project Spreadsheet
+Exercise 4: 
+  - In column “E”, you’ll enter the Quarto Pub link to your project website. It should look like https://your-username.quarto.pub/your-project-slug. This should NOT be the URL to your final project GitHub Repo.
+  - fix/get Quarto Pub latest version.
+
+
+
+
+
